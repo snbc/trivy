@@ -16,7 +16,6 @@
 *.out
 
 .idea
-.vscode
 
 # Directory Cache Files
 .DS_Store
@@ -34,3 +33,7 @@ dist
 
 # WebAssembly
 *.wasm
+
+
+
+*.gitpod.yml
